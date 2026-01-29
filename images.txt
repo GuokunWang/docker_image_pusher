@@ -1,1 +1,1 @@
- molyheci/dataflow:cu124
+containrrr/watchtower
