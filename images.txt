@@ -1,1 +1,2 @@
-python:3.11-slim-bookworm
+ghcr.io/anomalyco/opencode:latest
+nickfedor/watchtower
