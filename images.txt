@@ -1,1 +1,1 @@
-python:3.10-slim 
+mzz2017/v2raya:latest
