@@ -1,1 +1,1 @@
-mzz2017/v2raya:latest
+vastai/vllm:v0.10.2-cuda-12.8-pytorch-2.8.0-py312
