@@ -1,1 +1,2 @@
-vastai/vllm:v0.10.2-cuda-12.8-pytorch-2.8.0-py312
+vastai/pytorch:2.11.0-cu128-cuda-12.9-mini-py312-2026-04-15
+vastai/pytorch:2.11.0-cu130-cuda-13.2-mini-py312-2026-04-15
