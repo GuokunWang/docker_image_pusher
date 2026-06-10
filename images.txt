@@ -1,2 +1,1 @@
-vastai/pytorch:2.11.0-cu128-cuda-12.9-mini-py312-2026-04-15
-vastai/pytorch:2.11.0-cu130-cuda-13.2-mini-py312-2026-04-15
+lscr.io/linuxserver/code-server:latest
